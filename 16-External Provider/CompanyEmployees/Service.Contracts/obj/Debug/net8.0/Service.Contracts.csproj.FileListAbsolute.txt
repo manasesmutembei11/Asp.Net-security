@@ -1,0 +1,17 @@
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\bin\Debug\net8.0\Service.Contracts.deps.json
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\bin\Debug\net8.0\Service.Contracts.dll
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\bin\Debug\net8.0\Service.Contracts.pdb
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\bin\Debug\net8.0\Entities.dll
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\bin\Debug\net8.0\Shared.dll
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\bin\Debug\net8.0\Shared.pdb
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\obj\Debug\net8.0\Service.Contracts.csproj.AssemblyReference.cache
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\obj\Debug\net8.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\obj\Debug\net8.0\Service.Contracts.AssemblyInfoInputs.cache
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\obj\Debug\net8.0\Service.Contracts.AssemblyInfo.cs
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\obj\Debug\net8.0\Service.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\obj\Debug\net8.0\Service..DEC3DE55.Up2Date
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\obj\Debug\net8.0\Service.Contracts.dll
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\obj\Debug\net8.0\refint\Service.Contracts.dll
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\obj\Debug\net8.0\Service.Contracts.pdb
+C:\Users\Expaq\Downloads\Bonus 6 - Mastering ASP.NET Core Security\16-External Provider\CompanyEmployees\Service.Contracts\obj\Debug\net8.0\ref\Service.Contracts.dll

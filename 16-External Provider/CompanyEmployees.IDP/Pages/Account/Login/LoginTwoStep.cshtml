@@ -1,0 +1,24 @@
+﻿@page
+@model CompanyEmployees.IDP.Pages.Account.Login.LoginTwoStepModel
+
+<h2>LoginTwoStep</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-page="/Account/Login/LoginTwoStep">
+            <div class="form-group">
+                <partial name="_ValidationSummary" />
+                <label asp-for="Input.TwoFactorCode" class="control-label"></label>
+                <input asp-for="Input.TwoFactorCode" class="form-control" />
+                <span asp-validation-for="Input.TwoFactorCode" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Input.RememberLogin" />
+            <input type="hidden" asp-for="@Model.ReturnUrl" />
+            <input type="hidden" asp-for="@Model.Email" />
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
